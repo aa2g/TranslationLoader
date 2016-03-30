@@ -1,0 +1,1241 @@
+<?xml version="1.0"?>
+<ReplacementDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--
+    Attention translators: You can use AA2TL to translate AA2Edit into your native language.
+    Please see the included readme.txt file for more information, instructions, and limitations.
+
+    When translating, be sure not to touch the text in between the Japanese tags, including any whitespace and line breaks.
+    These values are used by AA2TL to match strings with their respective translations.  If the Japanese value is modified,
+    (even if it's just to delete some whitespace) AA2TL will not be able to match that string and it will not be replaced.
+  -->
+
+  <!--For reference, not used by AA2TL.-->
+  <Language>English</Language>
+  <!--For reference, not used by AA2TL.-->
+  <UpdateNote>/aa2g/ Windows 10 update</UpdateNote>
+  <!--The executable AA2TL will launch or attach to.-->
+  <ExecutableName>AA2Edit</ExecutableName>
+  <!--Encoding to use before marshalling strings into target process.  Nothing to do with document encoding!
+      Must be a .NET-recognized character encoding, 99% of the time it'll be either 'utf-16' or 'shift-jis'.  
+      You probably shouldn't touch this.-->
+  <TargetEncoding>shift-jis</TargetEncoding>
+  <!--XML schema version, for identification.  Not currently used by AA2TL. Generally not backwards/fowards compatible.
+      Don't change this.-->
+  <SchemaVersion>6</SchemaVersion>
+  <Replacements>
+    <!--
+      Startup Window
+    -->
+    <Replacement>
+      <Japanese>初期設定</Japanese>
+      <Translated>Initialization</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ゲーム開始</Japanese>
+      <Translated>Game Start</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>動作設定</Japanese>
+      <Translated>Configuration</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>システム情報</Japanese>
+      <Translated>System Info</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>マニュアルを読む</Japanese>
+      <Translated>View Manual</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>終了</Japanese>
+      <Translated>Exit</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>はじめに…</Japanese>
+      <Translated>A brief word...</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>　この作品は全てフィクションです。
+作品内に登場する人名・団体名・地名・事件及び時代背景・職業は全て架空のものであり、実際のものとは一切関係ありません。</Japanese>
+      <Translated>　This is a work of fiction. Any names or places depicted are fictitious, and have no relations to anything in reality.</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>　このゲームの内容はあくまで創作物でありゲームです。　このゲームの内容と同じことを現実に行うと法律によって処罰されるときがあります。ゲームの内容は芝居でありフィクションですので、絶対にゲームのマネをしたり実際にやったりしないで下さい。</Japanese>
+      <Translated>　Don't do anything in real life that you see in the game. Reproduction of depicted events may result in action by the law.</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>　このゲームの登場人物はすべて１８歳以上です。</Japanese>
+      <Translated>　Characters in this game are 18 or older.</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>　このゲームは作品内容および演出上、１８歳未満の方の購入・プレイが禁止されています。</Japanese>
+      <Translated>　Brought to you by /hgg/, /aa2g/ and the Hongfire AA2 Translation Team.</Translated>
+    </Replacement>
+    <!--
+      Configuration Window
+    -->
+    <Replacement>
+      <Japanese>コンフィグ</Japanese>
+      <Translated>Configuration</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>キャンセル</Japanese>
+      <Translated>Cancel</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>簡易設定</Japanese>
+      <Translated>Basic Setup</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>パフォーマンス</Japanese>
+      <Translated>Performance</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ノーマル</Japanese>
+      <Translated>Normal</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>クォリティ</Japanese>
+      <Translated>Quality</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>画面サイズ</Japanese>
+      <Translated>Screen Resolution</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>カスタム</Japanese>
+      <Translated>Advanced</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>全般</Japanese>
+      <Translated>General</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ゲーム設定</Japanese>
+      <Translated>Game Settings</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>マウス設定</Japanese>
+      <Translated>Mouse Settings</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>その他</Japanese>
+      <Translated>Etc.</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>テクスチャを綺麗にする</Japanese>
+      <Translated>Smooth Textures</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>バイリニア補間を使用する</Japanese>
+      <Translated>Bilinear Filtering</Translated>
+    </Replacement>
+    <!--Leave that line break alone-->
+    <Replacement>
+      <Japanese>頂点処理を
+ハードウェアで処理する</Japanese>
+      <Translated>Hardware Vertex Processing</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>MipMap設定</Japanese>
+      <Translated>Mipmap Settings</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>綺麗</Japanese>
+      <Translated>Best</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>描画方法</Japanese>
+      <Translated>Rendering Method</Translated>
+    </Replacement>-->
+    <Replacement>
+      <Japanese>設定1</Japanese>
+      <Translated>Type 1</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>設定2</Japanese>
+      <Translated>Type 2</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>※設定２にすると、速度が向上する可能性が
+　 ありますが、描画が乱れる場合があります。</Japanese>
+      <Translated>* Type 2 runs faster, but may result in graphical anomalies.</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ブラーを有効にする</Japanese>
+      <Translated>Enable Blur</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>後光シェーダーを有効にする</Japanese>
+      <Translated>Enable Rim Lighting</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>影テクスチャ</Japanese>
+      <Translated>Shadow Resolution</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>アンチエイリアス</Japanese>
+      <Translated>Anti-aliasing</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>マウススピード</Japanese>
+      <Translated>Mouse Speed</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>少し速い</Japanese>
+      <Translated>Fast</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>速い</Japanese>
+      <Translated>Faster</Translated>
+    </Replacement>
+    <!--These strings only appear for people with more than one mouse, I guess?-->
+    <Replacement>
+      <Japanese>ダブルマウスを使用する</Japanese>
+      <Translated>Use Double Mouse</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>サブマウス登録</Japanese>
+      <Translated>Register Submouse</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>メインマウス登録</Japanese>
+      <Translated>Register Main Mouse</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>※登録させたい方のマウスでボタンをクリックしてください。</Japanese>
+      <Translated>* Click on the button with the mouse you want to register.</Translated>
+    </Replacement>
+    <!--
+      Main Menu/Character Display Window
+    -->
+    <Replacement>
+      <Japanese>ジンコウガクエン２ きゃらめいく</Japanese>
+      <Translated>Artificial Academy 2 Character Maker</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>メイン画面</Japanese>
+      <Translated>Main Screen</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>キャラクター</Japanese>
+      <Translated>Character</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>表示</Japanese>
+      <Translated>Display</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>削除</Japanese>
+      <Translated>Delete</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>カメラ</Japanese>
+      <Translated>Camera</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>リセット</Japanese>
+      <Translated>Reset</Translated>
+    </Replacement>
+    <!--"Face" string (for camera buttons) can be found under Character Editor tabs-->
+    <Replacement>
+      <Japanese>胸</Japanese>
+      <Translated>Chest</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>股</Japanese>
+      <Translated>Crotch</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>男　保存先フォルダを開く</Japanese>
+      <Translated>Browse Male Folder</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>女　保存先フォルダを開く</Japanese>
+      <Translated>Browse Female Folder</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>女キャラクター作成</Japanese>
+      <Translated>Create Female Character</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>男キャラクター作成</Japanese>
+      <Translated>Create Male Character</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>確認</Japanese>
+      <Translated>Confirm</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>本当に削除してもいいですか？</Japanese>
+      <Translated>Do you really want to delete this character?</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>日付</Japanese>
+      <Translated>Date</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>性別</Japanese>
+      <Translated>Sex</Translated>
+    </Replacement>
+    <!--
+      Character Editor Window (general)
+    -->
+    <Replacement>
+      <Japanese>キャラクター作成画面</Japanese>
+      <Translated>Character Maker Screen</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>メイン画面に戻る</Japanese>
+      <Translated>Return to Main Screen</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>初期化</Japanese>
+      <Translated>Default</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ランダム</Japanese>
+      <Translated>Random</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>オールランダム</Japanese>
+      <Translated>All Random</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>新規作成</Japanese>
+      <Translated>New Character</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>読み込む</Japanese>
+      <Translated>Open File</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>保存先フォルダを開く</Japanese>
+      <Translated>Open Destination Folder</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>保存</Japanese>
+      <Translated>Save</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>キャラクター作成</Japanese>
+      <Translated>Character Creation</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>※ファイル名に使用できる文字は、「 a～z 」「 A～Z 」「 0～9 」「 - 」「 _ 」です。</Japanese>
+      <Translated>*You can use the characters 「 a～z 」「 A～Z 」「 0～9 」「 - 」「 _ 」.</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese> 　また、文字数は半角16文字までとなっています。</Japanese>
+      <Translated> 　File names must be between 1 and 16 characters.</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese> 　(例：Cha00_00)</Japanese>
+      <Translated> 　(Example: Cha00_00)</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ファイル名：</Japanese>
+      <Translated>File name: </Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ファイル名</Japanese>
+      <Translated>File name</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>読み込み</Japanese>
+      <Translated>Load</Translated>
+    </Replacement>
+    <!--
+      Character Editor Window (tabs)
+    -->
+    <Replacement>
+      <Japanese>システム</Japanese>
+      <Translated>System</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>体色</Japanese>
+      <Translated>Body Color</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>顔</Japanese>
+      <Translated>Face</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>眼</Japanese>
+      <Translated>Eyes</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>眼色</Japanese>
+      <Translated>Eye Color</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>眉</Japanese>
+      <Translated>Eyebrows</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>顔ほか</Japanese>
+      <Translated>Face Details</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>髪</Japanese>
+      <Translated>Hair</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>髪色</Japanese>
+      <Translated>Hair Color</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>人格</Japanese>
+      <Translated>Character</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>性格</Japanese>
+      <Translated>Personality</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>個性</Japanese>
+      <Translated>Traits</Translated>
+    </Replacement>
+    <!--
+      Character Editor Window (buttons)
+    -->
+    <Replacement>
+      <Japanese>低い</Japanese>
+      <Translated>Lowest</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>低め</Japanese>
+      <Translated>Low</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>基本</Japanese>
+      <Translated>Average</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>標準</Japanese>
+      <Translated>Standard</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>高め</Japanese>
+      <Translated>High</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>高い</Japanese>
+      <Translated>Highest</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>華奢</Japanese>
+      <Translated>Delicate</Translated>
+    </Replacement>
+    <!--"Tall"/"Fat" are male body types-->
+    <Replacement>
+      <Japanese>長身</Japanese>
+      <Translated>Tall</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>巨漢</Japanese>
+      <Translated>Fat</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>細め</Japanese>
+      <Translated>Thin</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>太め</Japanese>
+      <Translated>Chubby</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>柔</Japanese>
+      <Translated>Soft</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>普</Japanese>
+      <Translated>Medium</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>硬</Japanese>
+      <Translated>Hard</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>手数</Japanese>
+      <Translated>No restraint</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>一撃</Japanese>
+      <Translated>One Blow</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>変則</Japanese>
+      <Translated>Irregular</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>普通</Japanese>
+      <Translated>Normal</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>異性のみ</Japanese>
+      <Translated>Hetero</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>異性より</Japanese>
+      <Translated>Lean hetero</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>両方</Japanese>
+      <Translated>Bisexual</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>同性より</Japanese>
+      <Translated>Lean homo</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>同性のみ</Japanese>
+      <Translated>Homo</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>なし</Japanese>
+      <Translated>None</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>あり</Japanese>
+      <Translated>Yes</Translated>
+    </Replacement>
+    <!--Not sure where this button is used-->
+    <Replacement>
+      <Japanese>追加</Japanese>
+      <Translated>Add</Translated>
+    </Replacement>
+    <!--
+      Character Editor Window (female personality types)
+    -->
+     <Replacement>
+      <Japanese>活</Japanese>
+      <Translated>Lively</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>薄</Japanese>
+      <Translated>Delicate</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>朗</Japanese>
+      <Translated>Cheerful</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>淡</Japanese>
+      <Translated>Quiet</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>然</Japanese>
+      <Translated>Playful</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>晴</Japanese>
+      <Translated>Frisky</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>寧</Japanese>
+      <Translated>Kind</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>笑</Japanese>
+      <Translated>Joyful</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>月</Japanese>
+      <Translated>Ordinary</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>激</Japanese>
+      <Translated>Irritated</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>尖</Japanese>
+      <Translated>Harsh</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>楚</Japanese>
+      <Translated>Sweet</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>肝</Japanese>
+      <Translated>Creepy</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>慎</Japanese>
+      <Translated>Reserved</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>凜</Japanese>
+      <Translated>Dignified</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>独</Japanese>
+      <Translated>Aloof</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>聡</Japanese>
+      <Translated>Smart</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>賢</Japanese>
+      <Translated>Genuine</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>理</Japanese>
+      <Translated>Mature</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>怠</Japanese>
+      <Translated>Lazy</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>漢</Japanese>
+      <Translated>Manly</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>曹</Japanese>
+      <Translated>Cadet</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>慈</Japanese>
+      <Translated>Caring</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>軽</Japanese>
+      <Translated>Carefree</Translated>
+    </Replacement>
+    <!--
+      Character Editor Window (male personality types)
+    -->
+    <Replacement>
+      <Japanese>優</Japanese>
+      <Translated>Gentle</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>陽</Japanese>
+      <Translated>Positive</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>宅</Japanese>
+      <Translated>Otaku</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>蛮</Japanese>
+      <Translated>Savage</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>策</Japanese>
+      <Translated>Schemer</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>温</Japanese>
+      <Translated>Warm</Translated>
+    </Replacement>
+    <!--
+      Character Editor Window (traits)
+    -->
+    <Replacement>
+      <Japanese>チョロイ</Japanese>
+      <Translated>Easygoing</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>熱血友情</Japanese>
+      <Translated>Affable</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>男性苦手</Japanese>
+      <Translated>Bad with Guys</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>女性苦手</Japanese>
+      <Translated>Bad with Girls</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>チャーム</Japanese>
+      <Translated>Charming</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ツンデレ</Japanese>
+      <Translated>Tsundere</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>侠気</Japanese>
+      <Translated>Chivalrous</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ミーハー</Japanese>
+      <Translated>Trendy</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>素直</Japanese>
+      <Translated>Obedient</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>前向き</Japanese>
+      <Translated>Positive</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>照れ屋</Japanese>
+      <Translated>Shy</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ヤキモチ</Japanese>
+      <Translated>Jealous</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>豆腐精神</Japanese>
+      <Translated>Melancholy</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>スケベ</Japanese>
+      <Translated>Perverted</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>真面目</Japanese>
+      <Translated>Serious</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>クール</Japanese>
+      <Translated>Calm</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>直情的</Japanese>
+      <Translated>Impulsive</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ぽややん</Japanese>
+      <Translated>Absentminded</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>暴力的</Japanese>
+      <Translated>Violent</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>草食</Japanese>
+      <Translated>Passive</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>世話焼き</Japanese>
+      <Translated>Meddlesome</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>委員長</Japanese>
+      <Translated>Class Prez</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>お喋り</Japanese>
+      <Translated>Chatty</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ハラペコ</Japanese>
+      <Translated>Always Hungry</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>恋愛脳</Japanese>
+      <Translated>Romantic</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>一途</Japanese>
+      <Translated>Singleminded</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>優柔不断</Japanese>
+      <Translated>Indecisive</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>負けん気</Japanese>
+      <Translated>Competitive</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>腹黒</Japanese>
+      <Translated>Scheming</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>勤勉</Japanese>
+      <Translated>Diligent</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>奔放</Japanese>
+      <Translated>Wild</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>Ｍ気質</Japanese>
+      <Translated>Masochist</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>汗かき</Japanese>
+      <Translated>Sweaty</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>心の闇</Japanese>
+      <Translated>Evil</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>難聴</Japanese>
+      <Translated>Deaf</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>例の弱み</Japanese>
+      <Translated>Exploitable</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>未性徴</Japanese>
+      <Translated>Asexual</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>強運</Japanese>
+      <Translated>Lucky</Translated>
+    </Replacement>
+    <!--
+      Character Editor Window (H traits)
+    -->
+    <Replacement>
+      <Japanese>キス</Japanese>
+      <Translated>Kissing</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>胸愛撫</Japanese>
+      <Translated>Breast Caressing</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>女性器愛撫</Japanese>
+      <Translated>Vagina Caressing</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>男性器愛撫</Japanese>
+      <Translated>Penis Caressing</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>クンニ</Japanese>
+      <Translated>Cunnilingus</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>フェラ</Japanese>
+      <Translated>Fellatio</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>男バック挿入</Japanese>
+      <Translated>Doggy Style</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>女主導挿入</Japanese>
+      <Translated>Femdom</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>アナル全般</Japanese>
+      <Translated>Anal Play</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>生性器挿入</Japanese>
+      <Translated>No Condom</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>精飲</Japanese>
+      <Translated>Swallowing</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>中出し</Japanese>
+      <Translated>Creampies</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>精液掛け</Japanese>
+      <Translated>Bukkake</Translated>
+    </Replacement>
+    <!--
+      Character Editor Window (labels)
+    -->
+    <Replacement>
+      <Japanese>体の種類</Japanese>
+      <Translated>Body Type</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>身長</Japanese>
+      <Translated>Height</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>体型</Japanese>
+      <Translated>Figure</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>頭の大きさ</Japanese>
+      <Translated>Head Size</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ウエスト</Japanese>
+      <Translated>Waist</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>頭の長さ</Japanese>
+      <Translated>Head Length</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>大きさ</Japanese>
+      <Translated>Size</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>形</Japanese>
+      <Translated>Shape</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>丸み</Japanese>
+      <Translated>Roundness</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>向き</Japanese>
+      <Translated>Direction</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>高さ</Japanese>
+      <Translated>Height</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>間隔</Japanese>
+      <Translated>Spacing</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>奥行き</Japanese>
+      <Translated>Depth</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>柔らかさ</Japanese>
+      <Translated>Softness</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>乳輪の大きさ</Japanese>
+      <Translated>Areola Size</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>色合い</Japanese>
+      <Translated>Hue</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>鮮やかさ</Japanese>
+      <Translated>Saturation</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>明るさ</Japanese>
+      <Translated>Brightness</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>肌の色</Japanese>
+      <Translated>Skin Color</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>乳首の色</Japanese>
+      <Translated>Nipple Color</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>乳首の濃さ</Japanese>
+      <Translated>Nipple Opacity</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>日焼け跡</Japanese>
+      <Translated>Tan Mark</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>日焼け濃さ</Japanese>
+      <Translated>Tan Opacity</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>モザイク</Japanese>
+      <Translated>Mosaic</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>アンダー形</Japanese>
+      <Translated>Pubic Shape</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>アンダー濃さ</Japanese>
+      <Translated>Pubic Opacity</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>アンダー色</Japanese>
+      <Translated>Pubic Color</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>乳首の種類</Japanese>
+      <Translated>Nipple Type</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>顔形</Japanese>
+      <Translated>Face Type</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>目の横幅</Japanese>
+      <Translated>Eye Width</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>目の高さ</Japanese>
+      <Translated>Eye Position</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>目の間隔</Japanese>
+      <Translated>Eye Spacing</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>目の角度</Japanese>
+      <Translated>Eye Angle</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>目の縦幅</Japanese>
+      <Translated>Eye Height</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>外部ファイルを使用する</Japanese>
+      <Translated>Use External File</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>開く</Japanese>
+      <Translated>Browse</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>瞳の形</Japanese>
+      <Translated>Iris Shape</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>瞳の横幅</Japanese>
+      <Translated>Iris Width</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>瞳の高さ</Japanese>
+      <Translated>Iris Position</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>瞳の種類</Japanese>
+      <Translated>Iris Type</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ハイライト種類</Japanese>
+      <Translated>Highlight Type</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>瞳の縦幅</Japanese>
+      <Translated>Iris Height</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>瞳の色</Japanese>
+      <Translated>Eye Color</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>左目</Japanese>
+      <Translated>Left Eye</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>右目</Japanese>
+      <Translated>Right Eye</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>髪へ反映</Japanese>
+      <Translated>Hair</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>アンダーヘアへ反映</Japanese>
+      <Translated>Pubic Hair</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>眉の形</Japanese>
+      <Translated>Brow Shape</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>眉の角度</Japanese>
+      <Translated>Brow Angle</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>眉の色</Japanese>
+      <Translated>Brow Color</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>色の同期</Japanese>
+      <Translated>Match Color</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>上睫毛</Japanese>
+      <Translated>Upper Eyelid</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>下睫毛</Japanese>
+      <Translated>Lower Eyelid</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>眼鏡</Japanese>
+      <Translated>Glasses</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>眼鏡の色</Japanese>
+      <Translated>Glasses Color</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ほくろ</Japanese>
+      <Translated>Moles</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>唇</Japanese>
+      <Translated>Lip Color</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>唇の濃さ</Japanese>
+      <Translated>Lip Opacity</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>まぶた</Japanese>
+      <Translated>Eyelid</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>前髪</Japanese>
+      <Translated>Front Hair</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>横髪</Japanese>
+      <Translated>Side Hair</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>後髪</Japanese>
+      <Translated>Back Hair</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>付毛</Japanese>
+      <Translated>Hair Extension</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>髪の調整</Japanese>
+      <Translated>Adjustment</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>左右反転</Japanese>
+      <Translated>Flip Horiz.</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>反転</Japanese>
+      <Translated>Flip</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>眉へ反映</Japanese>
+      <Translated>Eyebrows</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>髪の色</Japanese>
+      <Translated>Hair Color</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>苗字</Japanese>
+      <Translated>Last Name</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>名前</Japanese>
+      <Translated>First Name</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>社交性</Japanese>
+      <Translated>Sociability</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>貞操観念</Japanese>
+      <Translated>Virtue</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>性愛対象</Japanese>
+      <Translated>Orientation</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>性交経験</Japanese>
+      <Translated>Sexual Exp.</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>肛交経験</Japanese>
+      <Translated>Anal Exp.</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>プロフィール</Japanese>
+      <Translated>Profile</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>喧嘩スタイル</Japanese>
+      <Translated>Fighting Style</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>知力</Japanese>
+      <Translated>Intelligence</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>体力</Japanese>
+      <Translated>Strength</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>※255文字まで入力できます</Japanese>
+      <Translated>* Up to 255 characters.</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>声調整</Japanese>
+      <Translated>Voice Pitch</Translated>
+    </Replacement>
+    <!--Do NOT touch whitespace in between the Japanese tags!
+  Or the English ones, for that matter!-->
+    <Replacement>
+      <Japanese>　　　個性
+
+※２個まで
+選択出来ます</Japanese>
+      <Translated>　 Character             Traits
+* Choose up
+      to two</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>　　　H好み
+
+※２個まで
+選択出来ます</Japanese>
+      <Translated>　   Sexual          Preferences
+* Choose up
+      to two</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>持ち物　愛</Japanese>
+      <Translated>Lover's Item</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>持ち物　友</Japanese>
+      <Translated>Friend's Item</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>持ち物　Ｈ</Japanese>
+      <Translated>Sexual Item</Translated>
+    </Replacement>
+    <!--
+      Misc. Popups and Dialog Boxes
+    -->
+    <Replacement>
+      <Japanese>すでに同名のファイルが存在します。
+上書きしますか？</Japanese>
+      <Translated>A file with the same name already exists.  Do you want to overwrite it?</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>キャラクター情報を作成しました。</Japanese>
+      <Translated>Character created.</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>キャラクターが保存されていない可能性があります。
+メイン画面に戻りますか？</Japanese>
+      <Translated>You may not have saved your character. Are you sure you want to return to the main menu?</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>選択</Japanese>
+      <Translated>Selection</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>設定</Japanese>
+      <Translated>OK</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>選択された画面サイズはデスクトップの画面領域を超えているので自動修正されます。</Japanese>
+      <Translated>The chosen screen resolution exceeds the size of your desktop and has been automatically changed.</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ディスプレイ画面領域の修正</Japanese>
+      <Translated>Screen Resolution Changed</Translated>
+    </Replacement>
+    <Replacement>
+      <Japanese>ファイル名が入力されていません。</Japanese>
+      <Translated>No file name was entered.</Translated>
+    </Replacement>
+  </Replacements>
+</ReplacementDictionary>
